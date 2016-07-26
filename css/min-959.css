@@ -1,0 +1,5 @@
+@media (min-width: 960px) {
+	.news__item3--none, .update__link--special  {
+		display: none;
+	}
+}

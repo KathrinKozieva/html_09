@@ -1,0 +1,183 @@
+@media only screen and (min-width: 700px) and (max-width: 849px) {
+   .wrap__mountain, .header, .slider__wrap, .violet__wrap, .white, .logos, .news, .fppter__wrap {
+   		width: 100%;
+   }
+
+   .header {
+   		height: 244px;
+   }
+
+	.slider__img {
+		position: absolute;
+		margin-left: 50%;
+		margin-top: -21px;
+	}
+
+	.menu {
+		position: absolute;
+		margin-left: -325px;
+		margin-top: 150px;
+	}
+
+	.menu__item {
+		margin: 0;
+		margin-right: 25px;
+	}
+
+	.none__span {
+		visibility: hidden;	
+	}
+
+
+	.slider__textP {
+		padding-left: 5px;
+		width: 318px;
+	}
+
+	.slider__textH1 {
+		letter-spacing: 0;
+		font-size: 52px;
+		padding-left: 5px;
+	}
+
+	.slider__textH2 {
+		padding-left: 5px;
+		letter-spacing: 0;
+		font-size: 22px;
+	}
+
+	.slider__text {
+		width: 40%;
+		margin-left: 10px;
+		padding: 0;
+	}
+
+	.slider__img {
+		margin-left: 55%;
+		width: 30%;
+	}
+
+	.slider__switcher {
+		margin: 0;
+		margin-top: 30px;
+		padding-bottom: 80px;
+		margin-left: -100px;
+	}
+
+	.article {
+		width: 180px;
+		height: 280px;
+		margin: 0;
+		margin-left: 40px;
+	}
+
+	.article__block--second .article__icon {
+		margin: 0;
+		margin-left: 220px;
+	}
+
+	.article__block--third .article__icon {
+		margin: 0;
+		margin-left: 460px;
+	}
+
+	.article__link {
+		margin-top: -30px;
+	}
+
+	.comment {
+		background-color: white;
+		background-image: none;
+		height: 250px;
+		width: 280px;
+		margin-right: 0;
+		padding-right: 0;
+	}
+
+	.comment__heading-violet {
+		display: block;
+		padding-left: 30px;
+	}
+
+	.comment__heading {
+		font-size: 26px;
+		padding-left: 30px;
+
+	}
+
+	.comment__body {
+		width: 240px;
+		font-size: 15px;
+		margin-top: -20px;
+		padding-left: 30px;
+
+	}
+
+	.slider__switcher--comment {
+		margin-left: -410px;
+		margin-top: 300px;
+	}
+
+	.updates	{
+		float: right;
+		width: 350px;
+		padding-top: 10px;
+	}
+
+	.update__link--old {
+		display: none;
+	}
+
+	.update__link {
+		margin-right: 100px;
+	}
+
+
+
+
+	.update {
+		padding: 0;
+		margin: 0;
+		margin-top: 15px;
+	}
+	
+	.update--second {
+		margin-top: -5px;
+	}
+	
+	.update--last {
+		margin-top: -4px;
+	}
+	 
+	.logos__item {
+		margin: 0;
+		margin-left: 10px;
+	}
+
+	.news__item1, .news__item2 {
+		display: none;
+	}
+
+	.news__item3 {
+		margin: 0;
+		width: 210px;
+		height: 280px;
+		float: left;
+		margin-right: 0;
+		padding-left: 10px;
+	}
+
+	footer {
+		height: 200px;
+	}
+
+	footer .menu--footer {
+		margin: 0;
+		margin-left: 20px;
+		padding-top: 50px;
+	}
+	
+	.footer__text {
+		padding-top: 100px;
+	}
+}
