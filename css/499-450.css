@@ -31,8 +31,8 @@
 
 	.menu__item {
 		display: block;
-	    width: 244px;
-	    height: 46px;
+	    width: 260px;
+	    height: 43px;
 		text-align: center;
 	}
 
@@ -45,6 +45,7 @@
 
 	.menu__link {
 		padding-top: 6px;
+		font-size: 22px;
 	}
 
 	.menu__link--hover:hover .menu__item {
@@ -71,7 +72,8 @@
 	}
 
 	.menu:hover {
-		background-color: rgba(72, 59, 78, 0.9);
+		background: url(../img/menu.png) no-repeat center center fixed;
+		background: rgba(72, 59, 78, 0.9);
 	}	
 	
 	.menu__item--last {
@@ -367,6 +369,7 @@
 
 	.menu--footer:hover {
 		background-color: rgba(72, 59, 78, 0);
+		background: none;
 	}	
 	
 	.menu__item--footer:hover {

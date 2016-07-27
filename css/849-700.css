@@ -97,6 +97,7 @@
 	.comment__heading-violet {
 		display: block;
 		padding-left: 30px;
+		padding-bottom: 5px;
 	}
 
 	.comment__heading {
