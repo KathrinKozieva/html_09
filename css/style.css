@@ -370,6 +370,10 @@ header {
 	list-style: none;
 }
 
+.update__icon {
+	border: none;
+}
+
 .update {
 	padding-top: 18px;
 }
