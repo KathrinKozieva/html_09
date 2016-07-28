@@ -81,7 +81,7 @@
 	}
 
 	.menu:hover {
-		background: url(../img/menu.png) no-repeat center center fixed;
+		background: url(../img/menu.png) no-repeat;
 		background: rgba(72, 59, 78, 0.9);
 	}	
 	
